@@ -1,0 +1,22 @@
+{
+  "name": "projet_muvumbi",
+  "version": "1.0.0",
+  "main": "index.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "node src/main.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "type": "module",
+  "dependencies": {
+    "docx": "^9.5.1",
+    "mammoth": "^1.10.0",
+    "xlsx": "^0.18.5"
+  }
+}
